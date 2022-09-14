@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T04:18:03.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" version="20.3.0" etag="03MTYogRN8ZhY_04L4j3" type="github"><diagram id="-kXFiRGB7e5rXoucVG4m">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-14T04:43:13.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="ZxJ45jatN754kFihuGWX" version="20.3.0" type="github">
+  <diagram id="-kXFiRGB7e5rXoucVG4m" name="Page-1">
+    <mxGraphModel dx="1185" dy="670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUy-oVIglJ8MDhoDr5BY-1" target="vUy-oVIglJ8MDhoDr5BY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-1" value="begin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386.5" y="184" width="78" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUy-oVIglJ8MDhoDr5BY-2" target="vUy-oVIglJ8MDhoDr5BY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-2" value="First time checking the handover device&#39;s condition." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="229" width="221" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUy-oVIglJ8MDhoDr5BY-6" target="vUy-oVIglJ8MDhoDr5BY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-6" value="Acquiring a machine layout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="281" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUy-oVIglJ8MDhoDr5BY-9" target="vUy-oVIglJ8MDhoDr5BY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-9" value="Apply new layout and all machine&#39;s general conditional&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315.25" y="334" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUy-oVIglJ8MDhoDr5BY-11" target="vUy-oVIglJ8MDhoDr5BY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-11" value="PC setting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315.5" y="387" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUy-oVIglJ8MDhoDr5BY-13" target="vUy-oVIglJ8MDhoDr5BY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-13" value="Hook-up machine part" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315.25" y="440" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUy-oVIglJ8MDhoDr5BY-15" target="vUy-oVIglJ8MDhoDr5BY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-15" value="Machine setting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315.5" y="493" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUy-oVIglJ8MDhoDr5BY-17" target="vUy-oVIglJ8MDhoDr5BY-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-17" value="MBO condition check (MBO check list)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="546" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUy-oVIglJ8MDhoDr5BY-19" target="vUy-oVIglJ8MDhoDr5BY-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-19" value="MBO report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315.5" y="599" width="220.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="vUy-oVIglJ8MDhoDr5BY-21" value="Main run" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="652" width="220.5" height="33" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
